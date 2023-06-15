@@ -23,4 +23,4 @@ Contributing
 Currently, this project isn't open for contributions, as it's a personal showcase project. However, if you have suggestions or find a bug, feel free to open an issue!
 
 Credits
-This project was entirely developed by me, [Your Name]. It was designed to be a showcase piece demonstrating my Python and object-oriented programming skills.
+This project was entirely developed by me, Georgios Zafeiriou. It was designed to be a showcase piece demonstrating my Python and object-oriented programming skills.
