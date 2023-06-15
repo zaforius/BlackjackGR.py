@@ -1,5 +1,3 @@
-Project Title: BlackJackGR
-Description
 BlackJackGR is a text-based Blackjack game, designed for the Greek audience and implemented in Python 3.11. The game utilizes object-oriented programming (OOP) principles and custom functions. The purpose of this project is to showcase my Python skills to potential employers.
 
 Installation
